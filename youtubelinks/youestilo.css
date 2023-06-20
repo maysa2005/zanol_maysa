@@ -18,7 +18,7 @@
   /* Add styles for the navigation menu */
   nav ul {
     list-style: none;
-    margin: 0;
+    margin: 20;
     padding: 0.2px;
     display: flex;
     justify-content: center;
