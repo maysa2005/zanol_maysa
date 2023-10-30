@@ -28,7 +28,7 @@
   }
 
   nav li {
-     margin: 0 30px;
+    margin: 0 30px;
     font-family: Comic Sans MS, serif;
     justify-content: center;
   }
@@ -45,6 +45,7 @@
     padding: 0px;
     text-align: center;
     background-color: purple;
+    color: white;
   }
 
   /* Add styles for the footer */
